@@ -1,5 +1,7 @@
-name = "film-critic"
-type = "javascript"
+name = "film-critics"
+main = "workers-site/index.js"
+
+compatibility_date = "2025-06-19"
 
 [site]
 bucket = "./build"
