@@ -1,0 +1,5 @@
+name = "film-critic"
+type = "javascript"
+
+[site]
+bucket = "./build"
